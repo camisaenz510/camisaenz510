@@ -6,7 +6,7 @@ System Engineering Student, UNA
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=camisaenz510&show_icons=true&locale=en)
 
-![lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=fran250599&show_icons=true&locale=en&layout=compact)
+![lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=camisaenz510&show_icons=true&locale=en&layout=compact)
 
 
 ## Some of the platforms and languages I used
@@ -31,9 +31,4 @@ System Engineering Student, UNA
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com)
 [<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40">](https://www.blender.org/)
 
-### University proyects
 
-There is multiple university projects on this organizations so you can check it here (mainly spanish as they are for the University)
-
- - [UNA Ouroboros](https://github.com/UNA-OUROBOROS) multiple libraries made for projects.
- - [UNA UNDERGROUND](https://github.com/orgs/UNA-UNDERGROUND) solutions of multiple assignations or projects.
